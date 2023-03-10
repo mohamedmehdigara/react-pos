@@ -5,6 +5,7 @@ import {
 } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import POSPage from './pages/POSPage';
+import React from 'react';
 
 function App() {
   return (
